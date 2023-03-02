@@ -3,4 +3,4 @@ KooXinTong/KooXinTong is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 Hi, im Xin Tong, a three year old programming infant
-Currently a uni student. 
+Degree fresh grad. 
